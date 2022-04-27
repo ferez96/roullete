@@ -1,1 +1,1 @@
-web: cd roullete && npm start
+web: npm start
